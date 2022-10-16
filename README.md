@@ -36,13 +36,11 @@
 <img src="https://img.shields.io/badge/cpp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="C++">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/Node%20JS-brightgreen?style=for-the-badge&logo=typescript&logoColor=white" alt="NodeJS">&nbsp;
-<img src="https://img.shields.io/badge/ReactJS-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">&nbsp;
+<img src="https://img.shields.io/badge/React%20JS-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">&nbsp;
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
 <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iTerm2&logoColor=white" alt="iTerm2">&nbsp;
-
-* **HTML & CSS with Vanilla JS projects from when I first started coding 👉**&nbsp;<a href="https://codepen.io/bernstrom"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" align="center"></a>
 
 ## 📊 &nbsp;GitHub Analytics
 
