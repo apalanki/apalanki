@@ -35,8 +35,9 @@
 - **DEV**\
 <img src="https://img.shields.io/badge/cpp-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="C++">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">&nbsp;
-<img src="https://img.shields.io/badge/Node%20JS-brightgreen?style=for-the-badge&logo=typescript&logoColor=white" alt="NodeJS">&nbsp;
 <img src="https://img.shields.io/badge/React%20JS-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">&nbsp;
+<img src="https://img.shields.io/badge/Node%20JS-brightgreen?style=for-the-badge&logo=typescript&logoColor=white" alt="NodeJS">&nbsp;
+<img src="https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="ReactNativeJS">&nbsp;
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">&nbsp;
