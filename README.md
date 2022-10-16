@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Making Google Lens accessbile on Google Chrome 🌎
+  🌎 Making Google Lens accessbile on Google Chrome (Desktop & Mobile Apps) 🌎
 </h3>
 
 <p align="center">
@@ -45,11 +45,11 @@
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/BernStrom">
+  <a href="https://github.com/apalanki">
     <img src="https://github-readme-stats.vercel.app/api?username=apalanki&count_private=true&show_icons=true&theme=ayu-mirage" width="400">
   </a>
   
-  <a href="https://github.com/BernStrom">
+  <a href="https://github.com/apalanki">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apalanki&langs_count=10&layout=compact&theme=ayu-mirage" width="335">
   </a>
 </p>
