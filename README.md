@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🌎 Making Google Lens accessbile on Google Chrome (Desktop & Mobile Apps) 🌎
+  🌎 Helping efficient Ambient Search Experiences on Google Chrome 🌎
 </h3>
 
 <p align="center">
