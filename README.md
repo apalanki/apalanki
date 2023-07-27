@@ -28,7 +28,7 @@
 ### 👨‍💻 &nbsp;What's my Profile?
 
 👨‍🍳 &nbsp;I view programming language like a tool and I fancy thinking about problems and picking a language that gets the job done.\
-🦁 &nbsp;Fitness and badminton are my favorite downtime activities. 💀
+🦁 &nbsp;Running and badminton are my favorite downtime activities. 💀
 
 ## 🛠️ &nbsp;Tech Stuff (as of Oct 2022): 
 
